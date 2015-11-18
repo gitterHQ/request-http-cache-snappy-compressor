@@ -1,6 +1,6 @@
 {
   "name": "request-http-cache-snappy-compressor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Snappy compressor for request-http-cache",
   "main": "lib/snappy-compressor.js",
   "dependencies": {
