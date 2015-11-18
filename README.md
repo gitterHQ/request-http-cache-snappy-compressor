@@ -1,7 +1,5 @@
 # request-http-cache-snappy-compressor
 
-[![Build Status](https://travis-ci.org/gitterHQ/request-http-cache-snappy-compressor.svg?branch=master)](https://travis-ci.org/gitterHQ/request-http-cache-snappy-compressor)
-
 An optional extension for request-http-cache to use snappy compression on cached data.
 
 ```
